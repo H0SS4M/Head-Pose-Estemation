@@ -1,5 +1,7 @@
 # Head_Pose_Estimation
 
+https://github.com/H0SS4M/Head-Pose-Estemation/blob/main/output.gif
+
 - In this project we will draw the 3 position axis (pitch,yaw,roll) by predicting the 3 angels of each position by training 3 models to predict each angel. 
 - We will use [AFLW2000](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/Database/AFLW2000-3D.zip) dataset with contains 2000 
 - We will use MediaPipe library and pycaret in both training and testing phases .
@@ -22,4 +24,4 @@
     -  Testing the model on a video by processing its frames and drawing the axis on them.
 
 ## 🛠 tOOLS USED
-Python, pycaret, OpenCV , svr , huber
+Python, pycaret, OpenCV , svr
