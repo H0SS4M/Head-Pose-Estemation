@@ -1,7 +1,5 @@
 # Head_Pose_Estimation
 
-https://github.com/H0SS4M/Head-Pose-Estemation/blob/main/output.gif
-
 ![[head]([.gif](https://github.com/H0SS4M/Head-Pose-Estemation/blob/main/output.gif))](https://github.com/H0SS4M/Head-Pose-Estemation/blob/main/output.gif)
 
 - In this project we will draw the 3 position axis (pitch,yaw,roll) by predicting the 3 angels of each position by training 3 models to predict each angel. 
@@ -25,5 +23,5 @@ https://github.com/H0SS4M/Head-Pose-Estemation/blob/main/output.gif
     -  Testing the model on the image.
     -  Testing the model on a video by processing its frames and drawing the axis on them.
 
-## 🛠 tOOLS USED
+## 🛠 TOOLS USED
 Python, pycaret, OpenCV , svr
